@@ -64,6 +64,6 @@
 #### git branch -d BRANCH-NAME
 #### git push origin --delete BRANCH-NAME 
 
+## Check logs
 
-
-
+#### git log
